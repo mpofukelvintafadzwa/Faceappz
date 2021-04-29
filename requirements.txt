@@ -190,7 +190,7 @@ penaltymodel-mip==0.2.3
 PennyLane==0.8.1
 pep8==1.7.1
 pickleshare==0.7.4
-Pillow==5.2.0
+Pillow==8.1.1
 pkginfo==1.4.2
 plotly==4.8.1
 plucky==0.4.3
