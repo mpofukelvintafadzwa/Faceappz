@@ -2,6 +2,9 @@ absl-py==0.4.1
 alabaster==0.7.11
 alembic==1.0.10
 appdirs==1.4.3
+anaconda-client==1.7.2
+anaconda-navigator==1.9.2
+anaconda-project==0.8.2
 asn1crypto==0.24.0
 astor==0.7.1
 astroid==2.0.4
@@ -50,7 +53,7 @@ dash-html-components==1.0.3
 dash-renderer==1.5.0
 dash-table==4.8.1
 dask==0.19.2
-datashape==0.5.4
+datashape==0.5.2
 decorator==4.4.0
 defusedxml==0.6.0
 dill==0.3.1.1
