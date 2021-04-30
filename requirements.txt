@@ -15,7 +15,7 @@ Babel==2.7.0
 backcall==0.1.0
 backports.shutil-get-terminal-size==1.0.0
 bcolz==0.12.1
-blaze==0.11.1
+blaze==0.10.1
 beautifulsoup4==4.6.3
 bitarray==0.8.3
 bkcharts==0.2
