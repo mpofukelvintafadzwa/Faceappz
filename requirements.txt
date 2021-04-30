@@ -200,7 +200,7 @@ protobuf==3.11.3
 psutil==5.4.7
 public==2019.4.13
 pubnub==4.1.6
-py==1.6.0
+py==1.10.0
 py4j==0.10.7
 pyasn1==0.4.5
 pyasn1-modules==0.2.2
