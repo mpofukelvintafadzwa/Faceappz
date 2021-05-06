@@ -78,7 +78,7 @@ filelock==3.0.12
 find==2019.4.13
 Flask==1.1.2
 Flask-Compress==1.5.0
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-Login==0.5.0
 future==0.17.1
 fxcmpy==1.2.4
