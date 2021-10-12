@@ -168,7 +168,7 @@ numpydoc==0.9.1
 odo==0.5.1
 olefile==0.46
 onnx==1.5.0
-opencv-contrib-python==4.0.0.21
+opencv-contrib-python==4.1.1.26
 opencv-python==4.2.0.32
 openpyxl==2.6.2
 ortools==7.1.6722
