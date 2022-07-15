@@ -57,7 +57,7 @@ defusedxml==0.6.0
 dill==0.3.1.1
 dimod==0.9.1
 distlib==0.3.0
-distributed==1.23.2
+distributed==2021.10.0
 docutils==0.14
 dwave-cloud-client==0.7.2
 dwave-hybrid==0.4.3
