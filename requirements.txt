@@ -298,7 +298,7 @@ tornado==5.1.1
 tqdm==4.32.1
 trading-calendars==1.5.1
 traitlets==4.3.2
-Twisted==18.7.0
+Twisted==22.10.0
 typed-ast==1.1.0
 typing==3.7.4
 typing-extensions==3.7.4
